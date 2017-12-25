@@ -24,6 +24,6 @@
 
 ** Excerpt from Opus 1
 
-   #+ATTR_HTML :width 100%
+   #+ATTR_HTML :width 200%
    [[./Images/hrm.jpg]]
 
