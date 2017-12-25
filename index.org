@@ -8,10 +8,9 @@
 #+REVEAL_MAX_SCALE: 2.5
 #+REVEAL_TRANS: none
 #+REVEAL_THEME: night
-#+REVEAL_HLEVEL: 999
 #+REVEAL_EXTRA_CSS: ./presentation.css
 
-#+TITLE: A workshop that ties classical scale work with training in improvisation
+#+TITLE: Classical Scale Work and Training in Improvisation
 #+AUTHOR: Tom Ed White
 #+EMAIL: wtomed@gmail.com
 
