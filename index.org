@@ -10,7 +10,7 @@
 #+REVEAL_THEME: night
 #+REVEAL_EXTRA_CSS: ./presentation.css
 
-#+TITLE: Classical Scale Work and Training in Improvisation
+#+TITLE: Classical Scale Work and Improvisation
 #+AUTHOR: Tom Ed White
 #+EMAIL: wtomed@gmail.com
 
