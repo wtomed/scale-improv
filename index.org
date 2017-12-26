@@ -16,18 +16,19 @@
 
 * Introduction
 
-#+ATTR_REVEAL: :frag t
   It is wonderful to play anything that pops into your head.
 
+#+ATTR_REVEAL: :frag t
   It is wonderful to play anything you hear.
 
+#+ATTR_REVEAL: :frag t
   It is wonderful to play the same way that you talk.
 
 ** Me
 
-#+ATTR_REVEAL: :frag t
    I am an amateur musician who performs a lot in the community where I live, in multiple genres.
 
+#+ATTR_REVEAL: :frag t
    Mostly on viola, but I also play the violin, tenor banjo, and I sing a lot.
 
 * Common questions?
@@ -37,11 +38,13 @@
 #+ATTR_REVEAL: :frag t
   Yes we can.
   
+#+ATTR_REVEAL: :frag t
   Should I do this?
 * A paradox  
 #+ATTR_REVEAL: :frag t
    It comes naturally to everyone.
 
+#+ATTR_REVEAL: :frag t
    But it takes time.
 
 * Let's play some scales from Hřímalý 
@@ -50,3 +53,6 @@
 
    #+ATTR_HTML: :width 200%
    [[./Images/hrm.pdf][Link to excerpt]]
+
+* Hřímalý without the notes
+** [[./Images/hrmc.jpg]]
