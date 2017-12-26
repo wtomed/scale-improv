@@ -16,10 +16,34 @@
 
 * Introduction
 
-  There are similarities between scale methodologies used in classical string training, and methodologies used for training in improvisation. This workshop will give participants a taste of what is involved in learning improvisation, through adapting traditional scale and arpeggio exercises to standard improvisational techniques.
+#+ATTR_REVEAL: :frag t
+  It is wonderful to play anything that pops into your head.
 
-  For those of you who have never been exposed to training in improvisation, the workshop will provide a gentle introduction. By relating the two techniques, the basics of improvisation will be de-mystified. This will help give you a way to decide if development of this skill set is something you might be interested in. In addition, I want to promote the theory that you can live in both worlds, without having to make a false choice between the two.
+  It is wonderful to play anything you hear.
+
+  It is wonderful to play the same way that you talk.
+
+** Me
+
+#+ATTR_REVEAL: :frag t
+   I am an amateur musician who performs a lot in the community where I live, in multiple genres.
+
+   Mostly on viola, but I also play the violin, tenor banjo, and I sing a lot.
+
+* Common questions?
+
+* Can I do this?
+
+#+ATTR_REVEAL: :frag t
+  Yes we can.
   
+  Should I do this?
+* A paradox  
+#+ATTR_REVEAL: :frag t
+   It comes naturally to everyone.
+
+   But it takes time.
+
 * Let's play some scales from Hřímalý 
 
 ** Excerpt from Opus 1
