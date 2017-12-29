@@ -37,9 +37,18 @@
 
 #+ATTR_REVEAL: :frag t
   Yes we can.
-  
+ #+BEGIN_NOTES
+ Universal ability, but skill development required.
+ 
+ Estimated time frame: 2nd language.
+ #+END_NOTES 
 #+ATTR_REVEAL: :frag t
   Should I do this?
+#+BEGIN_NOTES
+The power to play in multiple genres
+
+Self reliance
+#+END_NOTES
 * A paradox  
 #+ATTR_REVEAL: :frag t
    It comes naturally to everyone.
