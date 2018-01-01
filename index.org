@@ -66,3 +66,16 @@ Self reliance
 #+BEGIN_NOTES
 Play original finger pattern, then different pattern starting on another finger.
 #+END_NOTES
+
+* [[./Images/stv.pdf][Ševčík patterns]]
+
+#+BEGIN_NOTES
+Memorize pattern with participants. Pull up circle of fifths and play pattern through D and G major only.
+
+Play the pattern slowly in F. Suggest either playing in 2nd position with the same finger pattern, or playing in 1st position with a different pattern.
+
+Repeat in Bb. 
+
+Discuss playing patterns through the entire circle, shifting or changing finger patterns as needed.
+#+END_NOTES
+
