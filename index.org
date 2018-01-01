@@ -57,13 +57,11 @@ Self reliance
 #+ATTR_REVEAL: :frag t
    But it takes time.
 
-* Let's play some scales from Hřímalý 
-
-** [[./Images/hrm.pdf]]
+* [[./Images/hrm.pdf][Let's play some scales from Hřímalý]]
 
 
-* Hřímalý without the notes
-** [[./Images/hrmc.pdf]]
+* [[./Images/hrmc.pdf][Hřímalý without the notes]]
+
 #+BEGIN_NOTES
 Play original finger pattern, then different pattern starting on another finger.
 #+END_NOTES
