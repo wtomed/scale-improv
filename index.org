@@ -59,13 +59,11 @@ Self reliance
 
 * Let's play some scales from Hřímalý 
 
-** Excerpt from Opus 1
+** [[./Images/hrm.pdf]]
 
-   #+ATTR_HTML: :width 200%
-   [[./Images/hrm.pdf][Link to excerpt]]
 
 * Hřímalý without the notes
-** [[./Images/hrmc.jpg]]
+** [[./Images/hrmc.pdf]]
 #+BEGIN_NOTES
 Play original finger pattern, then different pattern starting on another finger.
 #+END_NOTES
