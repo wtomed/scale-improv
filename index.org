@@ -59,7 +59,6 @@ Self reliance
    But it takes time.
 
 * [[./Images/hrm.pdf][Let's play some scales from Hřímalý]]
-
  #+BEGIN_NOTES
  Click on the title to open Hřímalý printout.
 
