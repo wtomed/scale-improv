@@ -3,3 +3,22 @@
     There are similarities between scale methodologies used in classical string training, and methodologies used for training in improvisation. This workshop will give participants a taste of what is involved in learning improvisation, through adapting traditional scale and arpeggio exercises to standard improvisational techniques.
 
     For participants who have never been exposed to training in improvisation, the workshop will provide a gentle introduction. By relating the two techniques, the basics of improvisation will be de-mystified. This will help give them a way to decide if development of this skill set is something they might be interested in. In addition, I want to promote the theory that they can live in both worlds, without having to make a false choice between the two.
+
+    I want to take an approach that is not dependent on any genre. Basic improvisation skills can be applied to all styles of music. A neutral approach makes it easier to sample different genres and styles before deciding which one is the most appealing.
+
+    Another goal is to avoid getting locked into a genre based on social norms. For example, a violinist might feel obligated to focus on bluegrass or traditional folk, because the violin is well established in those traditions. What if the violinist is actually excited by R&B, and wants to learn to shred like B. B. King?
+
+    The violin, viola, and cello: all three are powerful and flexible instruments that can do anything.
+
+    This presentation is the first of a series. The others will be:
+
+    - Song forms.
+    - Basic diatonic modality.
+    - Pentatonic scales.
+    - Chord shapes and rhythm playing.
+
+    I want to design the presentations so they can be done in any sequence. All of them will be at a very basic level, just dipping toes in the water. I'm looking for ways to enable as many string players as possible to take that first step. Once that happens, there are plenty of resources to explore and paths to follow. In the string world, it seems that it's the first step that's missing.
+      
+    If you are reading this, I assume you are familiar with git and GitHub. Please feel free to fork/clone this repo and use as you see fit. I'm happy to consider pull requests for additional content.
+
+* How to use
