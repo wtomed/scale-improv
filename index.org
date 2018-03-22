@@ -16,13 +16,13 @@
 
 * Introduction
 
-  It is wonderful to play anything that pops into your head.
+  Play anything that pops into your head.
 
 #+ATTR_REVEAL: :frag t
-  It is wonderful to play anything you hear.
+  Play anything you hear.
 
 #+ATTR_REVEAL: :frag t
-  It is wonderful to play the same way that you talk.
+  Without thinking, the same way that you talk.
 
 ** Me
 
@@ -58,15 +58,14 @@ Self reliance
 #+ATTR_REVEAL: :frag t
    But it takes time.
 * You have to immerse yourself in a musical community
+  There is no substitute for making friends.
   
-  Similar to learning a new spoken language.
+* You can do a lot on your own
+  It's like practicing with Rosetta Stone.
 
-  This workshop is about what you can do on your own.
+  This type of practicing and traditional classical scale work overlap somewhat.
 
-  Rosetta Stone can help with learning a language, but to get fluent, you need to make friends.
-
-  It will also help you evaluate if you want to take the plunge.
-
+  I will show you some of the overlap, and give you a taste of this type of training.
 * [[./Images/hrm.pdf][Let's play some scales from Hřímalý]]
  #+BEGIN_NOTES
  Click on the title to open Hřímalý printout.
