@@ -57,6 +57,15 @@ Self reliance
 
 #+ATTR_REVEAL: :frag t
    But it takes time.
+* You have to immerse yourself in a musical community
+  
+  Similar to learning a new spoken language.
+
+  This workshop is about what you can do on your own.
+
+  Rosetta Stone can help with learning a language, but to get fluent, you need to make friends.
+
+  It will also help you evaluate if you want to take the plunge.
 
 * [[./Images/hrm.pdf][Let's play some scales from Hřímalý]]
  #+BEGIN_NOTES
