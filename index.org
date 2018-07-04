@@ -30,9 +30,7 @@
 
 #+ATTR_REVEAL: :frag t
    Mostly on viola, but I also play the violin, tenor banjo, and I sing a lot.
-#+BEGIN_NOTES
-You don't have to be like me. You don't have to take a fork in the road.
-#+END_NOTES
+
 * Common questions?
 
 * Can I do this?
