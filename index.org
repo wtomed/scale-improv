@@ -61,7 +61,7 @@ Self reliance
 * You can do a lot on your own
   It's like practicing with Rosetta Stone.
 
-  This type of practicing is an important part of jazz training.
+  This type of practicing evolved as an important part of jazz training.
 
   Jazz people have developed a lot of effective pedagogy, which can be used for any genre.
 
@@ -102,3 +102,27 @@ Repeat in Bb.
 Discuss playing patterns through the entire circle, shifting or changing finger patterns as needed.
 #+END_NOTES
 
+* Make up a pattern
+
+#+BEGIN_NOTES
+Invite a volunteer to come forward.
+
+Make up a simple phrase that fits into 4/4 time signature.
+
+Have everyone play together.
+#+END_NOTES
+
+* Conclusion
+
+#+ATTR_REVEAL: :frag t
+It's a long process, like learning a foreign language. 
+
+#+ATTR_REVEAL: :frag t
+Total fluency is a lifelong goal.
+
+#+ATTR_REVEAL: :frag t
+If you are participating in a musical community, it all comes naturally.
+
+* Next steps
+
+* Resources
