@@ -68,6 +68,7 @@ Self reliance
   This type of practicing and traditional classical scale work overlap somewhat.
 
   I will show you some of the overlap, and give you a taste of this type of training.
+
 * [[./Images/hrm.pdf][Let's play some scales from Hřímalý]]
  #+BEGIN_NOTES
  Click on the title to open Hřímalý printout.
@@ -84,13 +85,18 @@ Self reliance
  Repeat with C scale, with the violinists chosing whichever octave they prefer.
  #+END_NOTES 
 
+
 * [[./Images/hrmc.pdf][Hřímalý without the notes]]
 
 #+BEGIN_NOTES
 Play original finger pattern, then different pattern starting on another finger.
 #+END_NOTES
 
+
 * [[./Images/stv.pdf][Ševčík patterns]]
+
+* [[./Images/Phrase-Codex.pdf][Miguel Atwood-Ferguson]]
+
 
 #+BEGIN_NOTES
 Memorize pattern with participants. Pull up circle of fifths and play pattern through D and G major only.
@@ -114,14 +120,20 @@ Have everyone play together.
 
 * Conclusion
 
+You can memorize the circle of fifths, and become completely comfortable with jumping around the circle.
+
+Get comfortable with playing through the circle with various scale and phrase patterns, without thinking about key sigs.
+
+Make things up; fool around; have fun.
+
 #+ATTR_REVEAL: :frag t
-It's a long process, like learning a foreign language. 
+It's a natural but long process, like learning a foreign language. 
 
 #+ATTR_REVEAL: :frag t
 Total fluency is a lifelong goal.
 
 #+ATTR_REVEAL: :frag t
-If you are participating in a musical community, it all comes naturally.
+If you are participating in a musical community, your rate of progress will skyrocket.
 
 * Next steps
 ** Song forms  
@@ -133,4 +145,24 @@ If you are participating in a musical community, it all comes naturally.
 ** Chord shapes and forms on violin, viola, and cello
    Put a mando chord chart on this one.
    80% of playing is supporting other players, 20% is soloing. Make this sentence a link.
+** Find your voice.
 * Resources
+
+This presentation:
+
+https://wtomed.github.io/scale-improv
+
+Please feel free to use it as you see fit, and send me suggestions.
+
+** Miguel Atwood-Ferguson Phrase Codex Site
+
+   [[https://www.dropbox.com/sh/cti43ph1n7mpxc1/AAAv_bbnQMdiSIblPU0tesb8a?dl=0&fbclid=IwAR1j4EJcBzRxL05sQMF2OF7quEyuw6jecJH_DotTA3ONpdbPThhQX-zUwjs]]
+
+** Summer workshops
+
+[[https://christianhowes.com/education/creative-strings-workshop/csw-registration/][Christian Howes]]
+
+[[https://www.markoconnor.com/home][Mark O'Connor]]
+
+[[https://swangathering.com][Swannanoa Summer Gathering]]
+
