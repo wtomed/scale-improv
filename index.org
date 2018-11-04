@@ -69,20 +69,11 @@ Self reliance
 
   I will show you some of the overlap, and give you a taste of this type of training.
 
-* [[./Images/hrm.pdf][Let's play some scales from Hřímalý]]
+* Let's play some scales from Hřímalý!
+
+  [[./Images/hrm.png]]
+  
  #+BEGIN_NOTES
- Click on the title to open Hřímalý printout.
-
- Play the first scale through to get everyone comfortable. Skip the middle
- triplets. Play all scales in sequence.
-
- Encourage violists and cellists to think in terms of one octave scales,
- ignoring the notation in treble clef.
-
- Close the pdf page. Play D and G patterns from memory. Play A scale, and
- encourage violists and cellists to chose whichever octave they like.
-
- Repeat with C scale, with the violinists chosing whichever octave they prefer.
  #+END_NOTES 
 
 
