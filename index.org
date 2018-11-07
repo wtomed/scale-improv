@@ -28,27 +28,21 @@
 
    I am an amateur musician who performs a lot in the community where I live, in multiple genres.
 
-#+ATTR_REVEAL: :frag t
-   Mostly on viola, but I also play the violin, tenor banjo, and I sing a lot.
-
 * Common questions?
 
 * Can I do this?
 
-#+ATTR_REVEAL: :frag t
+#+SPLIT
   Yes we can.
  #+BEGIN_NOTES
  Universal ability, but skill development required.
  
  Estimated time frame: 2nd language.
- #+END_NOTES 
-#+ATTR_REVEAL: :frag t
-  Should I do this?
-#+BEGIN_NOTES
-The power to play in multiple genres
 
-Self reliance
-#+END_NOTES
+ The power to play in multiple genres
+
+ Self reliance
+ #+END_NOTES 
 * A paradox  
 #+ATTR_REVEAL: :frag t
    It comes naturally to everyone.
@@ -58,7 +52,12 @@ Self reliance
 * You have to immerse yourself in a musical community
   There is no substitute for making friends.
   
-* You can do a lot on your own
+#+SPLIT
+
+  But you can do a lot on your own
+
+#+BEGIN_NOTES
+
   It's like practicing with Rosetta Stone.
 
   This type of practicing evolved as an important part of jazz training.
@@ -68,6 +67,7 @@ Self reliance
   This type of practicing and traditional classical scale work overlap somewhat.
 
   I will show you some of the overlap, and give you a taste of this type of training.
+#+END_NOTES
 
 * Let's play some scales from Hřímalý!
 
@@ -79,17 +79,22 @@ Self reliance
 * Hřímalý without the melodic minor
 [[./Images/Circle_of_fifths_scales_from_C_to_Eb_landscape-1.svg]]
 
-* [[./Images/hrmc.pdf][Hřímalý without the notes]]
+* Hřímalý without the notes
+
+  Full image
+
+#+SPLIT
+
+Get url for image with scales from C to Eb
 
 #+BEGIN_NOTES
 Play original finger pattern, then different pattern starting on another finger.
 #+END_NOTES
 
 
-* [[./Images/stv.pdf][Ševčík patterns]]
+* Ševčík patterns
 
-* [[./Images/Phrase-Codex.pdf][Miguel Atwood-Ferguson]]
-
+  Full page image
 
 #+BEGIN_NOTES
 Memorize pattern with participants. Pull up circle of fifths and play pattern through D and G major only.
@@ -100,6 +105,18 @@ Repeat in Bb.
 
 Discuss playing patterns through the entire circle, shifting or changing finger patterns as needed.
 #+END_NOTES
+
+#+SPLIT
+
+  Excerpt
+
+* Miguel Atwood-Ferguson
+
+  Full
+
+#+SPLIT
+
+  Bartok excerpt
 
 * Make up a pattern
 
@@ -149,7 +166,7 @@ Please feel free to use it as you see fit, and send me suggestions.
 
 ** Miguel Atwood-Ferguson Phrase Codex Site
 
-   [[https://www.dropbox.com/sh/cti43ph1n7mpxc1/AAAv_bbnQMdiSIblPU0tesb8a?dl=0&fbclid=IwAR1j4EJcBzRxL05sQMF2OF7quEyuw6jecJH_DotTA3ONpdbPThhQX-zUwjs]]
+   [[https://www.dropbox.com/sh/cti43ph1n7mpxc1/AAAv_bbnQMdiSIblPU0tesb8a?dl=0&fbclid=IwAR1j4EJcBzRxL05sQMF2OF7quEyuw6jecJH_DotTA3ONpdbPThhQX-zUwjs][Dropbox link]]
 
 ** Summer workshops
 
