@@ -32,9 +32,9 @@
 
 * Can I do this?
 
-#+SPLIT
-  Yes we can.
- #+BEGIN_NOTES
+* Yes we can.
+
+#+BEGIN_NOTES
  Universal ability, but skill development required.
  
  Estimated time frame: 2nd language.
@@ -42,19 +42,18 @@
  The power to play in multiple genres
 
  Self reliance
- #+END_NOTES 
-* A paradox  
-#+ATTR_REVEAL: :frag t
-   It comes naturally to everyone.
+#+END_NOTES 
 
-#+ATTR_REVEAL: :frag t
-   But it takes time.
+* A paradox  
+
+* It comes naturally to everyone.
+
+* But it takes time.
+
 * You have to immerse yourself in a musical community
   There is no substitute for making friends.
   
-#+SPLIT
-
-  But you can do a lot on your own
+* But you can do a lot on your own
 
 #+BEGIN_NOTES
 
@@ -73,19 +72,20 @@
 
   [[./Images/hrm.png]]
   
- #+BEGIN_NOTES
- #+END_NOTES 
 
 * Hřímalý without the melodic minor
+
 [[./Images/Circle_of_fifths_scales_from_C_to_Eb_landscape-1.svg]]
 
 * Hřímalý without the notes
 
   Full image
 
-#+SPLIT
+* Excerpt C to Eb
 
 Get url for image with scales from C to Eb
+
+* Excerpt Ab to B
 
 #+BEGIN_NOTES
 Play original finger pattern, then different pattern starting on another finger.
@@ -106,17 +106,17 @@ Repeat in Bb.
 Discuss playing patterns through the entire circle, shifting or changing finger patterns as needed.
 #+END_NOTES
 
-#+SPLIT
+* Ševčík excerpt
 
-  Excerpt
+  Excerpt image
 
 * Miguel Atwood-Ferguson
 
-  Full
+  [[./Images/Phrase-Codex-intro.svg]]
 
-#+SPLIT
+* Bartok excerpt
 
-  Bartok excerpt
+  [[./Images/Phrase-Codex-Bartok.svg]]
 
 * Make up a pattern
 
