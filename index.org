@@ -26,13 +26,13 @@
 
 ** Me
 
-   I am an amateur musician who performs a lot in the community where I live, in multiple genres.
+   I am a musician who performs a lot in the community where I live, in multiple genres.
 
 * Common questions?
 
 * Can I do this?
 
-* Yes we can.
+* Yes we can
 
 #+BEGIN_NOTES
  Universal ability, but skill development required.
@@ -46,14 +46,18 @@
 
 * A paradox  
 
-* It comes naturally to everyone.
+* It comes naturally to everyone
 
-* But it takes time.
+* But it takes time
 
-* You have to immerse yourself in a musical community
+* Immerse yourself in a musical community
   There is no substitute for making friends.
   
-* But you can do a lot on your own
+* Self study
+
+  Ideas about exploring on your own.
+
+  Is improvisation for me? Self study can help determine that.
 
 #+BEGIN_NOTES
 
@@ -79,22 +83,29 @@
 
 * Hřímalý without the notes
 
-  Full image
+  [[./Images/hrmc.jpg]]
 
 * Excerpt C to Eb
-
-Get url for image with scales from C to Eb
-
-* Excerpt Ab to B
 
 #+BEGIN_NOTES
 Play original finger pattern, then different pattern starting on another finger.
 #+END_NOTES
 
+  [[./Images/hrm-first-excerpt.jpg]]
+
+* Excerpt Ab to B
+
+  [[./Images/hrm-second-excerpt.jpg]]
+  
 
 * Ševčík patterns
 
-  Full page image
+  [[./Images/stv.png]]
+
+
+* Ševčík excerpt
+
+  [[./Images/stv-excerpt.png]]
 
 #+BEGIN_NOTES
 Memorize pattern with participants. Pull up circle of fifths and play pattern through D and G major only.
@@ -105,10 +116,6 @@ Repeat in Bb.
 
 Discuss playing patterns through the entire circle, shifting or changing finger patterns as needed.
 #+END_NOTES
-
-* Ševčík excerpt
-
-  Excerpt image
 
 * Miguel Atwood-Ferguson
 
@@ -153,9 +160,9 @@ If you are participating in a musical community, your rate of progress will skyr
    Get fluency in the five additional diatonic modes, in addition to major and minor.
    
 ** Chord shapes and forms on violin, viola, and cello
-   Put a mando chord chart on this one.
-   80% of playing is supporting other players, 20% is soloing. Make this sentence a link.
-** Find your voice.
+   80% of playing is supporting other players, 20% is soloing. 
+** Solfege
+** Find your voice
 * Resources
 
 This presentation:
